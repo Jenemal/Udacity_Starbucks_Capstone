@@ -12,6 +12,10 @@ user/offer interactions. Jupyter Notebook is used to preprocess the data for a h
 pre-processed data was also used to create a logistic regression ML model to help predict whether or <br>
 not an offer would be successful or not.
 
+### Medium Article
+A brief blog describing the results of the analysis can be found here:
+https://medium.com/@jmalik.87.osu/7c4fc55fefa5
+
 ## Files
 #### portfolio.json contains the information on the offers
 - id (string) - offer id

@@ -2,12 +2,15 @@
 
 ## Motivation
 
-Combining three datasets provided by Starbucks, I have created a ML model to identify whether or not an offer provided by Starbucks will be successful or not. This
-will hopefully provide them with insight as to how better target offers.
+Combining three datasets provided by Starbucks, I have created a ML model to identify whether or <br> 
+not an offer provided by Starbucks will be successful or not. This will hopefully provide them with <br>
+insight as to how better target offers.
 
 ## Analysis
-This project includes datafiles provided by Starbucks on users, offers, and transcripts recording user/offer interactions. Jupyter Notebook is used to preprocess
-the data for a heuristic analysis. The pre-processed data was also used to create a logistic regression ML model to help predict whether or not an offer would be successful or not.
+This project includes datafiles provided by Starbucks on users, offers, and transcripts recording <br> 
+user/offer interactions. Jupyter Notebook is used to preprocess the data for a heuristic analysis. The <br>
+pre-processed data was also used to create a logistic regression ML model to help predict whether or <br>
+not an offer would be successful or not.
 
 ## Files
 #### portfolio.json contains the information on the offers

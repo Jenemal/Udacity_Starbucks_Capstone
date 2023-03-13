@@ -1,4 +1,4 @@
-# Udacity_Disaster_Response_Pipeline
+# Starbucks Capstone Project
 
 ## Motivation
 
@@ -36,6 +36,16 @@ https://medium.com/@jmalik.87.osu/7c4fc55fefa5
 - time (int) - time in hours since start of test. The data begins at time t=0
 - value - (dict of strings) - either an offer id or transaction amount depending on the record
 #### Starbucks_Capstone_Project.ipynb is the Jupyter Notebook file to process the data
+#### Libraries Used
+- pandas
+- numpy
+- scipy.stats: randint
+- pyplot
+- datetime
+- sklearn.model_selection: train_test_split, RandomizedSearchCV
+- sklearn.linear_model: LogisticRegression
+- sklearn.ensemble: RandomForestClassifier
+- sklearn.metrics: classification_report, confusion_matrix, ConfusionMatrixDisplay
 
 ## To Run
 #### Starbucks_Capstone_Project.ipynb
